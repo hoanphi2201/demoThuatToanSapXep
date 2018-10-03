@@ -65,4 +65,4 @@ vòng for thứ 2 ở dòng 5
 if ở dòng 6 (so sánh cặp phần tử)
 swap ở dòng 7
 
-## Thêm selection sort: đang bị lỗi ở cuối dãy ko đổi chỗ được 2 số(chưa tìm ra nguyên nhân)
+### Thêm selection sort: đang bị lỗi ở cuối dãy ko đổi chỗ được 2 số(chưa tìm ra nguyên nhân)
