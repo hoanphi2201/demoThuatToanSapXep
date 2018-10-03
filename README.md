@@ -64,3 +64,5 @@ vòng for đầu tiên ở dòng 4 => selectedindex = 4
 vòng for thứ 2 ở dòng 5
 if ở dòng 6 (so sánh cặp phần tử)
 swap ở dòng 7
+
+##Thêm selection sort
